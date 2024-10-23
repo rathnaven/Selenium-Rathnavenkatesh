@@ -6,6 +6,8 @@ public class Printjava {
 		
 		
 		System.out.println("print java");
+		
+		System.out.println("Print GIT");
 	}
 
 }
